@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherVuckovic</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="enter_hint">Enter city here</string>
+    <string name="search">Search</string>
+    <string name="divide">/</string>
+    <string name="forecast_video">Forecast video</string>
+
+
+</resources>
